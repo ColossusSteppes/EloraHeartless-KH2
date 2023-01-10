@@ -1,6 +1,6 @@
 title: Elora's Heartless Colors
 originalAuthor: ColossusSteppes
-description: Mixes Vanilla and FM Heartless Colors. Uses Tomk1004's mod as a base.
+description: Mixes Vanilla and FM Heartless Colors. Uses TieuLink's HD Vanilla Heartless mod as a base.
 assets:
 - name: obj\B_BB100.mdlx
   method: copy
