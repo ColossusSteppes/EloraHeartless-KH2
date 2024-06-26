@@ -17,7 +17,6 @@ Filenames: https://openkh.dev/kh2/dictionary/obj.html
 - Bulky Vendor: Uses PS2 colors (except for Halloween Town, which uses Final Mix colors)
 - Fortuneteller: PS2 colors (The Agrabah Carpet section may show the Final Mix colors)
 - Cannon Gun: PS2 colors
-- Driller Mole: PS2 colors
 - Fat Bandit: PS2 colors
 - Luna Bandit: PS2 colors, except for the scimitars which use the Final Mix colors.
 - Wight Knight: Halloween Town uses Final Mix colors, Olympus Coliseum uses PS2 colors.
