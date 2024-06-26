@@ -14,7 +14,7 @@ Filenames: https://openkh.dev/kh2/dictionary/obj.html
 - Hook Bat: PS2 colors
 - Bookmaster: The Book uses the Final Mix, the rest uses PS2 colors
 - Hammer Frame: PS2 colors
-- Bulky Vendor: Uses PS2 colors
+- Bulky Vendor: Uses PS2 colors (except for Halloween Town, which uses Final Mix colors)
 - Fortuneteller: PS2 colors (The Agrabah Carpet section may show the Final Mix colors)
 - Cannon Gun: PS2 colors
 - Driller Mole: PS2 colors
