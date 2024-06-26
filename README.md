@@ -20,7 +20,7 @@ Filenames: https://openkh.dev/kh2/dictionary/obj.html
 - Driller Mole: PS2 colors
 - Fat Bandit: PS2 colors
 - Luna Bandit: PS2 colors, except for the scimitars which use the Final Mix colors.
-- Wight Knight: Halloween Town usees Final Mix colors, Olympus Coliseum uses PS2 colors.
+- Wight Knight: Halloween Town uses Final Mix colors, Olympus Coliseum uses PS2 colors.
 - Aeroplane: PS2 colors
 - Assault Rider: PS2 colors
 - Living Bone: PS2 colors
