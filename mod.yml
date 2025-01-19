@@ -1,6 +1,6 @@
-title: Eloras Heartless Colors PC
+title: Elora's Heartless Colors PC
 originalAuthor: ColossusSteppes
-description: Mixes Vanilla and FM Heartless Colors. Uses TieuLinks HD Vanilla Heartless mod as a base.
+description: Mixes Vanilla and FM Heartless Colors. Uses TieuLink's HD Vanilla Heartless mod as a base.
 game: kh2
 dependencies: 
 assets:
@@ -766,18 +766,6 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\M_EX590.mdlx\-3.DDS
-- name: remastered\obj\M_EX600.mdlx\-0.DDS
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: remastered\obj\M_EX600.mdlx\-0.DDS
-- name: remastered\obj\M_EX600.mdlx\-1.DDS
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: remastered\obj\M_EX600.mdlx\-1.DDS
 - name: remastered\obj\M_EX620.mdlx\-0.DDS
   method: copy
   platform: pc
@@ -922,6 +910,30 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\M_EX670.mdlx\-6.DDS
+- name: remastered\obj\M_EX700.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-0.DDS
+- name: remastered\obj\M_EX700.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-1.DDS
+- name: remastered\obj\M_EX700.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-2.dds
+- name: remastered\obj\M_EX700.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-3.dds
 - name: remastered\obj\M_EX720.mdlx\-0.DDS
   method: copy
   platform: pc
